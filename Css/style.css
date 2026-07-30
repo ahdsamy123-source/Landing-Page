@@ -203,6 +203,12 @@ th {
   padding: 20px 16px;
   border-bottom: 1px solid #d9d9d9;
 }
+.ee{
+  color:#6d20e8;
+}
+.ee span{
+  color:#6d20e8;
+}
 
 .left {
   text-align: left;
